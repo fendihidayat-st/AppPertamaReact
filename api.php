@@ -1,4 +1,5 @@
 <?php 
+# Latihan API
 error_reporting(0);
 
 $host = "localhost";
